@@ -1,4 +1,4 @@
- oii, seja bem vindo! o((>ω< ))o
+ olá o((>ω< ))o
 
 - 📚 estudante de Engenharia de Sofftware
 - 👩🏾 Pronomes: ela/dela
