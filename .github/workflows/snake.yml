@@ -24,3 +24,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+![Snake animation](https://github.com/rachel16bit/rachel16bit/blob/output/github-contribution-grid-snake.svg)
+
