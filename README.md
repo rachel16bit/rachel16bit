@@ -29,11 +29,6 @@
 
 ## GitHub Activity
 
-<div align="center">
-  <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api?username=rachel16bit&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="203em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachel16bit&layout=compact&langs_count=3&theme=jolly"/>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachel16bit/rachel16bit/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachel16bit/rachel16bit/output/github-contribution-grid-snake.svg">
