@@ -1,6 +1,6 @@
 ## olá, me chamo Raquel 
 
-- 📚 estudante de Engenharia de Sofftware
+- 📚 Desenvolvimento Front-End - EBAC
 - 👩🏾 Pronomes: ela/dela
 
 
